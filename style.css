@@ -1,0 +1,33 @@
+body {
+    background-color: beige;
+    text-align: justify;
+
+    }
+    
+    h1 {
+    color: gray;
+    text-align: center;
+    font-size: 54px;
+    }
+
+    h2 {
+        color: black;
+        text-align: left;
+        font-size: 30px;
+        }
+    
+    p {
+    text-align: justify;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    }
+
+    ul {
+        font-family: "Times New Roman", Times, serif;
+        font-size: 20px;
+        }
+
+    ol {
+           font-family: "Times New Roman", Times, serif;
+           font-size: 20px;
+        }
